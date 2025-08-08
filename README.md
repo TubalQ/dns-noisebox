@@ -1,4 +1,4 @@
-## dns-noise (minimal guide)
+## dns-noise
 
 1. Clone this repo.
 2. Add your wordlist to `words.txt`.
