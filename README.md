@@ -18,17 +18,7 @@ WORDLIST="/your/path/words.txt"
 
 You can then add the random-time script to crontab (as root or user):
 
-
 crontab -e
-
-
-Example:
-
-
-@reboot /your/path/noisebox-crontab.sh
-
-
-
 
 ### What it does
 
