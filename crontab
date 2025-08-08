@@ -4,4 +4,4 @@
 sleep $((RANDOM % 1800))
 
 # Run the actual DNS noise script
-/opt/dns_noise.sh
+/your-directory/dns_noise.sh
