@@ -7,7 +7,7 @@ RESOLVERS=("9.9.9.9" "1.1.1.1" "8.8.8.8" "94.140.14.14" "208.67.222.222")
 NUM_QUERIES=15
 
 # Wordlist for random domains
-WORDLIST="/root/noise_box/words.txt"
+WORDLIST="/your-directory/noise_box/words.txt"
 # List of TLDs to randomize
 TLDS=("com" "net" "org" "info" "biz" "io" "co" "app" "xyz" "se" "nu" "it" "ai" "me" "dev")
 
